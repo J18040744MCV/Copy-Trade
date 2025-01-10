@@ -1,4 +1,4 @@
-CopyTrade by Kirill Pleshakov
+CopyTrade by J18040744MCV
 
 
 Tutorial: https://youtu.be/LCXdpdvKZag
